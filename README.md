@@ -29,3 +29,13 @@ $ mvn clean spring-boot:run
 By default, application uses Tomcat which listening on port: 8080,
 means you can reach it if run on a local machine by hitting URL http://localhost:8080.
 
+
+![Screenshot 2024-08-22 175348](https://github.com/user-attachments/assets/b067610a-77ab-429b-a1e7-022517dbb739)
+
+![Screenshot 2024-08-22 175357](https://github.com/user-attachments/assets/99e2cea3-ed07-4dd1-ab75-18a4fd8bbcde)
+
+![Screenshot 2024-08-22 175550](https://github.com/user-attachments/assets/5563eb63-912c-4944-8d1c-7aa10e3d2467)
+
+
+![Screenshot 2024-08-22 175614](https://github.com/user-attachments/assets/ee5beff6-7482-4ec7-bbbf-4c2238d091f3)
+
