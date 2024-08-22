@@ -30,7 +30,7 @@ By default, application uses Tomcat which listening on port: 8080,
 means you can reach it if run on a local machine by hitting URL http://localhost:8080.
 
 
-![Screenshot 2024-08-22 175348](https://github.com/user-attachments/assets/b067610a-77ab-429b-a1e7-022517dbb739)
+https://github.com/user-attachments/assets/b067610a-77ab-429b-a1e7-022517dbb739
 
 ![Screenshot 2024-08-22 175357](https://github.com/user-attachments/assets/99e2cea3-ed07-4dd1-ab75-18a4fd8bbcde)
 
